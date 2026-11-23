@@ -5,7 +5,7 @@ Standard library only; no network.
 
 import os
 
-ENTRY = "v2.1.0: fixed a bug where the brain replayed an embarrassing moment from 2011, unprompted, at 3 a.m."
+ENTRY = "v1.8.2: fixed a bug where the user replied 'you too' when the waiter said 'enjoy your meal.'"
 
 
 def main() -> None:
